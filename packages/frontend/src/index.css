@@ -51,11 +51,6 @@ body {
   justify-content: center;
 }
 
-.pearsonImage {
-  max-width: 350px;
-  margin-top: 1rem;
-}
-
 .welcome {
   display: flex;
   align-items: center;
