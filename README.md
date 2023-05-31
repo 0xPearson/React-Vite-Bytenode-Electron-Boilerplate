@@ -1,6 +1,6 @@
 #### Made by [0xPearson](https://devante.dev)
 
-<h1 align="center">☄️ Vue x Vite x Bytenode Electron Boilerplate ☄️</h1>
+<h1 align="center">☄️ React x Vite x Bytenode Electron Boilerplate ☄️</h1>
 <h4 align="center">⭐ Don't forget to leave a star! ⭐</h4>
 
 ## Breakdown
